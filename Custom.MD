@@ -9,6 +9,9 @@
 redux를 이용한 상태관리
 jest를 이용한 tdd
 
+<br/>
+아이디어 생각
+
 <!-- 2023.03.03 desktop github check -->
 <!-- 2023.03.03 Win Laptop github check -->
 <!-- 2023.03.06 Macbook github check -->
