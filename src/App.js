@@ -1,11 +1,12 @@
-//import './App.css';
 import React from "react";
-import InputSample from "./InputSample";
+import Hello from "./Hello";
 
 function App() {
-  const name = "김석주";
-  console.log(name);
-  return <InputSample />;
+  return (
+    <div>
+      <Hello />
+    </div>
+  );
 }
 
 export default App;
