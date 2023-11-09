@@ -5,6 +5,10 @@ function App() {
   return (
     <div>
       <Hello />
+      <Hello />
+      <input />
+      <br />
+      <div>안녕히계세요.</div>
     </div>
   );
 }
