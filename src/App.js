@@ -12,7 +12,7 @@ function App() {
 
   return (
     <>
-      <Hello />
+      <Hello name="kim" color="yellow" />
       <div style={style}>{name}</div>
     </>
   );
