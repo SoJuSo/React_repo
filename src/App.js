@@ -1,5 +1,6 @@
 import React from "react";
 import Hello from "./Hello";
+import Wrapper from "./Wrapper";
 
 function App() {
   const name = "react";
@@ -11,10 +12,10 @@ function App() {
   };
 
   return (
-    <>
+    <Wrapper>
       <Hello name="kim" color="yellow" />
       <div style={style}>{name}</div>
-    </>
+    </Wrapper>
   );
 }
 
